@@ -1,10 +1,10 @@
-# feature_level_bias_recsys23
+# feature_level_bias_tors
 
-> This is the implementation of our paper submitted to RecSys' 23 (under review):
+> This is the implementation of our paper submitted to TORS (under review):
 >
 > Understanding and Counteracting Feature-Level Bias in Click-Through Rate Prediction
 >
-> - Anonymous Author(s),  Submission ID: 123
+> By Jinqiu Jin, Sihao Ding, Wenjie Wang, Fuli Feng and Xiangnan He
 
 1. To reproduce results in normal biased tests:
 
