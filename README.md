@@ -1,4 +1,4 @@
-# feature_level_bias_tors
+# feature_level_bias
 
 > This is the implementation of our paper submitted to TORS (under review):
 >
