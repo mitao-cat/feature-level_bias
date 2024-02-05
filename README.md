@@ -1,6 +1,6 @@
 # feature_level_bias
 
-> This is the implementation of our paper submitted to TORS (under review):
+> This is the implementation of our paper:
 >
 > Understanding and Counteracting Feature-Level Bias in Click-Through Rate Prediction
 >
