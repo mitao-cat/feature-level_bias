@@ -4,7 +4,7 @@
 >
 > Understanding and Counteracting Feature-Level Bias in Click-Through Rate Prediction
 >
-> By Jinqiu Jin, Sihao Ding, Wenjie Wang, Fuli Feng and Xiangnan He
+> By Jinqiu Jin, Sihao Ding, Wenjie Wang, and Fuli Feng
 
 1. To reproduce results in normal biased tests:
 
