@@ -1,10 +1,12 @@
 # feature_level_bias
 
-> This is the implementation of our paper:
+> This is the implementation of our paper in WWW'24 (short):
 >
 > Understanding and Counteracting Feature-Level Bias in Click-Through Rate Prediction
 >
 > By Jinqiu Jin, Sihao Ding, Wenjie Wang, and Fuli Feng
+>
+> You can also refer to the long paper version by [this link](https://arxiv.org/abs/2402.03600).
 
 1. To reproduce results in normal biased tests:
 
